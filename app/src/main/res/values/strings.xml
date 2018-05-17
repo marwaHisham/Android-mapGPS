@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mymap</string>
+    <string name="myloc" >myloc</string>
+    <string name="btnadd">Address</string>
+</resources>
